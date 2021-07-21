@@ -1,0 +1,112 @@
+C:\FIMK\Semestri 5\Projekti & Punimi Seminarik në C#\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\FIMK\Semestri 5\Projekti & Punimi Seminarik në C#\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\FIMK\Semestri 5\Projekti & Punimi Seminarik në C#\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\FIMK\Semestri 5\Projekti & Punimi Seminarik në C#\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\FIMK\Semestri 5\Projekti & Punimi Seminarik në C#\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+C:\FIMK\Semestri 5\Projekti & Punimi Seminarik në C#\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+C:\FIMK\Semestri 5\Projekti & Punimi Seminarik në C#\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Renci.SshNet.dll
+C:\FIMK\Semestri 5\Projekti & Punimi Seminarik në C#\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+C:\FIMK\Semestri 5\Projekti & Punimi Seminarik në C#\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\HotelManagement.csprojAssemblyReference.cache
+C:\FIMK\Semestri 5\Projekti & Punimi Seminarik në C#\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CheckIn.resources
+C:\FIMK\Semestri 5\Projekti & Punimi Seminarik në C#\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CheckInList.resources
+C:\FIMK\Semestri 5\Projekti & Punimi Seminarik në C#\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CheckOut.resources
+C:\FIMK\Semestri 5\Projekti & Punimi Seminarik në C#\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CheckOutList.resources
+C:\FIMK\Semestri 5\Projekti & Punimi Seminarik në C#\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ForgotPassword.resources
+C:\FIMK\Semestri 5\Projekti & Punimi Seminarik në C#\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Home.resources
+C:\FIMK\Semestri 5\Projekti & Punimi Seminarik në C#\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LOG_IN.resources
+C:\FIMK\Semestri 5\Projekti & Punimi Seminarik në C#\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+C:\FIMK\Semestri 5\Projekti & Punimi Seminarik në C#\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\FIMK\Semestri 5\Projekti & Punimi Seminarik në C#\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Reservation.resources
+C:\FIMK\Semestri 5\Projekti & Punimi Seminarik në C#\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReservationsList.resources
+C:\FIMK\Semestri 5\Projekti & Punimi Seminarik në C#\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\HotelManagement.csproj.GenerateResource.cache
+C:\FIMK\Semestri 5\Projekti & Punimi Seminarik në C#\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\HotelManagement.csproj.CoreCompileInputs.cache
+C:\FIMK\Semestri 5\Projekti & Punimi Seminarik në C#\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\HotelManagement.csproj.CopyComplete
+C:\FIMK\Semestri 5\Projekti & Punimi Seminarik në C#\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\FIMK\Semestri 5\Projekti & Punimi Seminarik në C#\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\FIMK\Semestri 5\Projekti & Punimi Seminarik në C#\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\FIMK\Semestri 5\Projekti & Punimi Seminarik në C#\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\FIMK\Semestri 5\Projekti & Punimi Seminarik në C#\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoadForm.resources
+C:\FIMK\Semestri 5\Projekti & Punimi Seminarik & Ushtrimet në C#\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\FIMK\Semestri 5\Projekti & Punimi Seminarik & Ushtrimet në C#\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\FIMK\Semestri 5\Projekti & Punimi Seminarik & Ushtrimet në C#\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\FIMK\Semestri 5\Projekti & Punimi Seminarik & Ushtrimet në C#\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\FIMK\Semestri 5\Projekti & Punimi Seminarik & Ushtrimet në C#\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\FIMK\Semestri 5\Projekti & Punimi Seminarik & Ushtrimet në C#\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+C:\FIMK\Semestri 5\Projekti & Punimi Seminarik & Ushtrimet në C#\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+C:\FIMK\Semestri 5\Projekti & Punimi Seminarik & Ushtrimet në C#\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Renci.SshNet.dll
+C:\FIMK\Semestri 5\Projekti & Punimi Seminarik & Ushtrimet në C#\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\FIMK\Semestri 5\Projekti & Punimi Seminarik & Ushtrimet në C#\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+C:\FIMK\Semestri 5\Projekti & Punimi Seminarik & Ushtrimet në C#\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\HotelManagement.csprojAssemblyReference.cache
+C:\FIMK\Semestri 5\Projekti & Punimi Seminarik & Ushtrimet në C#\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CheckIn.resources
+C:\FIMK\Semestri 5\Projekti & Punimi Seminarik & Ushtrimet në C#\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CheckInList.resources
+C:\FIMK\Semestri 5\Projekti & Punimi Seminarik & Ushtrimet në C#\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CheckOut.resources
+C:\FIMK\Semestri 5\Projekti & Punimi Seminarik & Ushtrimet në C#\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CheckOutList.resources
+C:\FIMK\Semestri 5\Projekti & Punimi Seminarik & Ushtrimet në C#\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ForgotPassword.resources
+C:\FIMK\Semestri 5\Projekti & Punimi Seminarik & Ushtrimet në C#\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Home.resources
+C:\FIMK\Semestri 5\Projekti & Punimi Seminarik & Ushtrimet në C#\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoadForm.resources
+C:\FIMK\Semestri 5\Projekti & Punimi Seminarik & Ushtrimet në C#\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LOG_IN.resources
+C:\FIMK\Semestri 5\Projekti & Punimi Seminarik & Ushtrimet në C#\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+C:\FIMK\Semestri 5\Projekti & Punimi Seminarik & Ushtrimet në C#\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\FIMK\Semestri 5\Projekti & Punimi Seminarik & Ushtrimet në C#\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Reservation.resources
+C:\FIMK\Semestri 5\Projekti & Punimi Seminarik & Ushtrimet në C#\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReservationsList.resources
+C:\FIMK\Semestri 5\Projekti & Punimi Seminarik & Ushtrimet në C#\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\HotelManagement.csproj.GenerateResource.cache
+C:\FIMK\Semestri 5\Projekti & Punimi Seminarik & Ushtrimet në C#\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\HotelManagement.csproj.CoreCompileInputs.cache
+C:\FIMK\Semestri 5\Projekti & Punimi Seminarik & Ushtrimet në C#\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\HotelManagement.csproj.CopyComplete
+C:\FIMK\Semestri 5\Projekti & Punimi Seminarik & Ushtrimet në C#\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\FIMK\Semestri 5\Projekti & Punimi Seminarik & Ushtrimet në C#\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\FIMK\Semestri 5\Programimi\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\FIMK\Semestri 5\Programimi\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\FIMK\Semestri 5\Programimi\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\FIMK\Semestri 5\Programimi\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\FIMK\Semestri 5\Programimi\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\FIMK\Semestri 5\Programimi\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+C:\FIMK\Semestri 5\Programimi\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+C:\FIMK\Semestri 5\Programimi\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Renci.SshNet.dll
+C:\FIMK\Semestri 5\Programimi\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\FIMK\Semestri 5\Programimi\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+C:\FIMK\Semestri 5\Programimi\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\HotelManagement.csprojAssemblyReference.cache
+C:\FIMK\Semestri 5\Programimi\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CheckIn.resources
+C:\FIMK\Semestri 5\Programimi\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CheckInList.resources
+C:\FIMK\Semestri 5\Programimi\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CheckOut.resources
+C:\FIMK\Semestri 5\Programimi\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CheckOutList.resources
+C:\FIMK\Semestri 5\Programimi\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ForgotPassword.resources
+C:\FIMK\Semestri 5\Programimi\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Home.resources
+C:\FIMK\Semestri 5\Programimi\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoadForm.resources
+C:\FIMK\Semestri 5\Programimi\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LOG_IN.resources
+C:\FIMK\Semestri 5\Programimi\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+C:\FIMK\Semestri 5\Programimi\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\FIMK\Semestri 5\Programimi\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Reservation.resources
+C:\FIMK\Semestri 5\Programimi\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReservationsList.resources
+C:\FIMK\Semestri 5\Programimi\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\HotelManagement.csproj.GenerateResource.cache
+C:\FIMK\Semestri 5\Programimi\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\HotelManagement.csproj.CoreCompileInputs.cache
+C:\FIMK\Semestri 5\Programimi\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\HotelManagement.csproj.CopyComplete
+C:\FIMK\Semestri 5\Programimi\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\FIMK\Semestri 5\Programimi\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\FIMK - Informatike Inxhinierike\Semestri 5\Programimi\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\FIMK - Informatike Inxhinierike\Semestri 5\Programimi\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\FIMK - Informatike Inxhinierike\Semestri 5\Programimi\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\FIMK - Informatike Inxhinierike\Semestri 5\Programimi\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\FIMK - Informatike Inxhinierike\Semestri 5\Programimi\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\FIMK - Informatike Inxhinierike\Semestri 5\Programimi\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+C:\FIMK - Informatike Inxhinierike\Semestri 5\Programimi\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+C:\FIMK - Informatike Inxhinierike\Semestri 5\Programimi\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Renci.SshNet.dll
+C:\FIMK - Informatike Inxhinierike\Semestri 5\Programimi\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\FIMK - Informatike Inxhinierike\Semestri 5\Programimi\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+C:\FIMK - Informatike Inxhinierike\Semestri 5\Programimi\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\HotelManagement.csprojAssemblyReference.cache
+C:\FIMK - Informatike Inxhinierike\Semestri 5\Programimi\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CheckIn.resources
+C:\FIMK - Informatike Inxhinierike\Semestri 5\Programimi\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CheckInList.resources
+C:\FIMK - Informatike Inxhinierike\Semestri 5\Programimi\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CheckOut.resources
+C:\FIMK - Informatike Inxhinierike\Semestri 5\Programimi\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CheckOutList.resources
+C:\FIMK - Informatike Inxhinierike\Semestri 5\Programimi\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ForgotPassword.resources
+C:\FIMK - Informatike Inxhinierike\Semestri 5\Programimi\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Home.resources
+C:\FIMK - Informatike Inxhinierike\Semestri 5\Programimi\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoadForm.resources
+C:\FIMK - Informatike Inxhinierike\Semestri 5\Programimi\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LOG_IN.resources
+C:\FIMK - Informatike Inxhinierike\Semestri 5\Programimi\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+C:\FIMK - Informatike Inxhinierike\Semestri 5\Programimi\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\FIMK - Informatike Inxhinierike\Semestri 5\Programimi\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Reservation.resources
+C:\FIMK - Informatike Inxhinierike\Semestri 5\Programimi\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReservationsList.resources
+C:\FIMK - Informatike Inxhinierike\Semestri 5\Programimi\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\HotelManagement.csproj.GenerateResource.cache
+C:\FIMK - Informatike Inxhinierike\Semestri 5\Programimi\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\HotelManagement.csproj.CoreCompileInputs.cache
+C:\FIMK - Informatike Inxhinierike\Semestri 5\Programimi\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\HotelManagement.csproj.CopyComplete
+C:\FIMK - Informatike Inxhinierike\Semestri 5\Programimi\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\FIMK - Informatike Inxhinierike\Semestri 5\Programimi\Projekti ne C#\Projekti\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
